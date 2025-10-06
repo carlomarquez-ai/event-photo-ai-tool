@@ -33,5 +33,4 @@ Removes blurry, low-quality, and duplicate images while applying basic edits to 
 - Customizable for client-specific preferences
 
 ## License
-
-Specify your license here (e.g., MIT, Apache 2.0)
+MIT License
