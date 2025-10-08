@@ -1,0 +1,7 @@
+opencv-python
+pillow
+imagehash
+numpy
+torch
+transformers
+tqdm
